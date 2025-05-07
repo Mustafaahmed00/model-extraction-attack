@@ -1,0 +1,6 @@
+tensorflow>=2.0.0
+numpy>=1.19.2
+keras>=2.4.0
+matplotlib>=3.3.2
+jupyter>=1.0.0
+notebook>=6.1.4 
